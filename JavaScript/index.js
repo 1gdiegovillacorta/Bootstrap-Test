@@ -36,7 +36,7 @@ Header.innerHTML = `
 `;
 
 Options.innerHTML = `
-    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-1">
     <ul class="list-group fs-6">
     <li class="list-group-item py-3">
         <i class="fa-solid fa-money-bill"></i>
@@ -60,7 +60,7 @@ Options.innerHTML = `
     </li>
     </ul>
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+    <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-1">
     <ul class="list-group fs-6">
     <li class="list-group-item py-3">
         <i class="fa-solid fa-pizza-slice"></i>
